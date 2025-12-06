@@ -4,6 +4,8 @@ A comprehensive mobile application designed to help SFU students plan their acad
 
 **Developed for CMPT 362 - Mobile Applications Programming and Design**
 
+https://rhs8.github.io/SFU-Course-Planner-Web/
+
 ---
 
 ## Overview
